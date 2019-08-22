@@ -137,6 +137,9 @@ h4 {
     letter-spacing: 2px;
 }
 
+.button--cta button--white Masthead__input-cta {
+    background-color: blue;
+}
 /* NAVAGATION BAR */
 
 
